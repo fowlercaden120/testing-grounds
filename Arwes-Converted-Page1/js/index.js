@@ -588,7 +588,7 @@ window.__NEXT_REGISTER_PAGE("/", function () {
               footerContent: {
                 display: "flex",
                 padding: e.padding / 2,
-                fontSize: "80%"
+                fontSize: "0%"
               },
               footerLeft: { flex: "1 1 auto" },
               footerRight: {
